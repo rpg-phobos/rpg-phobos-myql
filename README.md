@@ -1,1 +1,1 @@
-# rpg-phobos-myql
+# mysql-server
